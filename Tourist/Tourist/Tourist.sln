@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tourist", "Tourist.csproj", "{E9C36F3B-52D4-430C-B597-947B97592D42}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{25DC34F7-E70B-47A5-A74C-521F7AEF2085}"
+	ProjectSection(SolutionItems) = preProject
+		bin\Debug\Tourists.csv = bin\Debug\Tourists.csv
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9C36F3B-52D4-430C-B597-947B97592D42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9C36F3B-52D4-430C-B597-947B97592D42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9C36F3B-52D4-430C-B597-947B97592D42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9C36F3B-52D4-430C-B597-947B97592D42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2AFA59B1-3659-4AA4-846A-597867A336F7}
+	EndGlobalSection
+EndGlobal
